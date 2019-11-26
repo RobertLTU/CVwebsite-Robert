@@ -29,14 +29,12 @@ h3 {
 
 a {
   color: #11999E;
-  padding: 5px 5px 5px 5px;
+  padding: 5px 20px 5px 20px;
 }
 a:hover {
   color: #1d4d4f;
-  font-size: 110%;
   background-color: #36b5b0;
   border-radius: 50%;
-  padding: 5px 20px 5px 20px;
 }
 p {
   color: #40514E;
@@ -164,7 +162,6 @@ font-family: 'Montserrat', sans-serif;
 .testbutton:hover {
   color: #FFFFFF;
   background: #11999E;
-  font-size: 120%;
   padding: 7px 17px;
   border-radius: 12px;
 }
