@@ -28,13 +28,13 @@ h3 {
 }
 
 a {
-  color: #11999E;
+  color: #007065;
   padding: 5px 20px 5px 20px;
 }
 a:hover {
-  color: #1d4d4f;
+  color: #007065;
   background-color: #36b5b0;
-  border-radius: 50%;
+  border-radius: 40%;
 }
 p {
   color: #40514E;
@@ -152,7 +152,7 @@ font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   color: #13595C;
   font-size: 18px;
-  padding: 7px 17px;
+  padding: 7px 17px 7px 17px;
   border-radius: 12px;
   background: #9DD8C8;
   text-decoration: none;
@@ -162,7 +162,7 @@ font-family: 'Montserrat', sans-serif;
 .testbutton:hover {
   color: #FFFFFF;
   background: #11999E;
-  padding: 7px 17px;
+  padding: 7px 17px 7px 17px;
   border-radius: 12px;
 }
 .footer-link {
