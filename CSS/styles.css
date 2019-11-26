@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  font-weight: bolder;
+  color: #007065;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #007065;
+  font-weight: normal;
+  line-height: 1;
+  margin: 25px 25% 25px 25%;
+  width: 50%;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #007065;
+}
+
+a {
+  color: #11999E;
+  padding: 5px 5px 30px 5px;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+
+hr {
+  margin: 60px auto 70px auto;
+  width: 10%;
+  border-width: 10px;
+  border-style: dotted none none none;
+  border-color: #9dd8c8;
+  background-color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #9dd8c8;
+  position: relative;
+  padding-top: 30px;
+}
+
+.middle-container {
+  background-color: #EAF6F6;
+}
+.contact-me {
+  position: relative;
+  padding-bottom: 200px;
+}
+
+.bottom-container {
+  background-color: #9dd8c8;
+  padding: 1.5%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 25%;
+  top: 5%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 25%;
+  bottom: 40%;
+}
+.Eagle1 {
+  width: 3%;
+  position: relative;
+  bottom: 500px;
+  left: 225px;
+}
+.Eagle2 {
+  width: 4%;
+  position: relative;
+  bottom: 250px;
+  right: 150px;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.mymainphoto {
+  border-radius: 50%;
+  width: 200px;
+  margin-top: 50px;
+}
+
+.centered-paragraph {
+  width: 26%;
+  margin: 0 37% 0 37%;
+  text-align: justify;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.iconpython {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+  background-color: #EAF6F6;
+}
+
+.iconcss {
+  width: 20%;
+  float: right;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  background-color: #EAF6F6;
+}
+
+.iconXML {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  background-color: #EAF6F6;
+}
+.iconRETAILsupply {
+    width: 30%;
+    float: right;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    background-color: #EAF6F6;
+}
+.centered-paragraph {
+  text-align: center;
+}
+.prg-copyright {
+  color: #EAF6F6;
+  margin-top: 50px;
+}
+.testbutton {
+font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #13595C;
+  font-size: 18px;
+  padding: 7px 17px;
+  border-radius: 12px;
+  background: #9DD8C8;
+  text-decoration: none;
+  position: relative;
+  top: 80px;
+}
+.testbutton:hover {
+  color: #FFFFFF;
+  background: #C72C41;
+
+}
+.footer-link {
+  text-decoration: none;
+  margin: 5px 30px 5px 30px;
+}
