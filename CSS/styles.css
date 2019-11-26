@@ -91,6 +91,7 @@ hr {
   position: relative;
   bottom: 250px;
   right: 150px;
+  display:none;
 }
 .pro {
   text-decoration: underline;
