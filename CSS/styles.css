@@ -67,6 +67,7 @@ hr {
 .bottom-container {
   background-color: #9dd8c8;
   padding: 1.5%;
+  position: relative;
 }
 
 .top-cloud {
@@ -83,7 +84,7 @@ hr {
 .Eagle1 {
   width: 3%;
   position: relative;
-  bottom: 500px;
+  bottom: 400px;
   left: 225px;
 }
 .Eagle2 {
@@ -168,10 +169,15 @@ font-family: 'Montserrat', sans-serif;
 }
 .footer-link {
   text-decoration: none;
-  margin: 5px 30px 5px 30px;
+  margin: 5px 0 5px 0px;
+  position: relative;
+  top: 15px;
 }
 .prg-copyright {
   color: #EAF6F6;
+  font-size: 0.85rem;
   margin-top: 10px;
   padding-top:30px;
+  position: relative;
+  top: 15px;
 }
