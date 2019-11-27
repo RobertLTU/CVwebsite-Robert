@@ -2,6 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  background-color: #EAF6F6;
 }
 
 h1 {
@@ -105,8 +106,8 @@ hr {
 }
 
 .centered-paragraph {
-  width: 26%;
-  margin: 0 37% 0 37%;
+  width: 40%;
+  margin: 0 30% 0 30%;
   text-align: justify;
 }
 
